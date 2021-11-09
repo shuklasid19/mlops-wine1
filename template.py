@@ -1,6 +1,5 @@
 import os
 
-
 dirs = [
     os.path.join("data", "raw"),
     os.path.join("data","processed"),
